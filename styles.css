@@ -1,0 +1,39 @@
+body{
+	background: rgb(45,161,161);
+	background: linear-gradient(212deg, rgba(45,161,161,1) 21%, rgba(42,57,192,1) 76%);
+	background-attachment: fixed;
+}
+
+.centradov{
+	    margin: 15rem 0 0 0;
+}
+
+.general{
+	display: flex;
+	justify-content: center;
+}
+.botonera{
+	display: grid;
+}
+.btn-m{
+	background: rgb(64,92,156);
+	background: linear-gradient(180deg, rgba(64,92,156,1) 10%, rgba(1,21,51,1) 87%);
+	border-color: black !important;
+	color: whitesmoke !important;
+}
+
+#buscar{
+	margin: 0 0 0 5px;
+}
+#btnsin, #btndef, #btnsimilar, #btnfrq, #btnprn{
+	margin: 5px 0 10px 0;
+}
+.collapsing{
+
+}
+.card-body{
+	min-width: 356px;
+}
+.aireado{
+
+}
